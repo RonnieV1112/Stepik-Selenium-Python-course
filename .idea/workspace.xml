@@ -22,7 +22,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="module_1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620482298725</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework from module 2">
+      <created>1620482660682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620482660682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +223,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework from module 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework from module 1" />
+    <MESSAGE value="homework from module 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework from module 2" />
   </component>
 </project>

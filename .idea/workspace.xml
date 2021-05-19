@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6bd2834-3541-43f2-8583-9569ecae45b0" name="Default Changelist" comment="homework from module 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b6bd2834-3541-43f2-8583-9569ecae45b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/test_locale.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/test_locale.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621435313242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework from module 3, parametrization">
+      <created>1621445086916</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621445086916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +244,7 @@
     <MESSAGE value="homework from module 1" />
     <MESSAGE value="homework from module 2" />
     <MESSAGE value="homework from module 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework from module 3" />
+    <MESSAGE value="homework from module 3, parametrization" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework from module 3, parametrization" />
   </component>
 </project>

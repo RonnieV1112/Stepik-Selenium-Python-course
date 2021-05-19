@@ -8,7 +8,7 @@ def pytest_addoption(parser):
                      action='store',
                      default='chrome',
                      help="Choose browser: chrome or firefox")
-    parser.addoption('--locale',
+    parser.addoption('--language',
                      action='store',
                      default=None,
                      help='Choose locale: ru or en')
@@ -18,16 +18,16 @@ def pytest_addoption(parser):
 def browser(request):
     browser_name = request.config.getoption('browser_name')
     browser = None
-    user_locale = request.config.getoption('locale')
+    user_language = request.config.getoption('locale')
     if browser_name == "chrome":
         options = Options()
         options.add_experimental_option('prefs',
-                                        {'intl.accept_languages': user_locale})
+                                        {'intl.accept_languages': user_language})
         print("\nstart chrome browser for test..")
         browser = webdriver.Chrome(options=options)
     elif browser_name == "firefox":
         fp = webdriver.FirefoxProfile()
-        fp.set_preference("intl.accept_languages", user_locale)
+        fp.set_preference("intl.accept_languages", user_language)
         print("\nstart firefox browser for test..")
         browser = webdriver.Firefox(firefox_profile=fp)
     else:

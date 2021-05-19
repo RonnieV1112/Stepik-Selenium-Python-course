@@ -1,0 +1,75 @@
+1621442630934	geckodriver	INFO	Listening on 127.0.0.1:49809
+1621442631948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSOkep4"
+
+(firefox:93971): Gtk-WARNING **: 19:43:52.017: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+1621442632455	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:94055): Gtk-WARNING **: 19:43:52.796: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+
+(/usr/lib/firefox/firefox:94082): Gtk-WARNING **: 19:43:53.026: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621442633654	Marionette	INFO	Listening on port 43107
+
+(/usr/lib/firefox/firefox:94165): Gtk-WARNING **: 19:43:53.808: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+1621442633813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1621265141, line 6203: unreachable code after return statement
+1621442640860	Marionette	INFO	Stopped listening on port 43107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621442939685	geckodriver	INFO	Listening on 127.0.0.1:45135
+1621442939688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley4pzQT"
+
+(firefox:94715): Gtk-WARNING **: 19:48:59.715: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+1621442940022	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:94794): Gtk-WARNING **: 19:49:00.326: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+
+(/usr/lib/firefox/firefox:94824): Gtk-WARNING **: 19:49:00.594: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621442941186	Marionette	INFO	Listening on port 39143
+1621442941202	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:94904): Gtk-WARNING **: 19:49:01.296: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1621265141, line 6203: unreachable code after return statement
+1621442946719	Marionette	INFO	Stopped listening on port 39143
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621442947132	geckodriver	INFO	Listening on 127.0.0.1:49357
+1621442948141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWkkmu0"
+
+(firefox:95008): Gtk-WARNING **: 19:49:08.176: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+1621442948490	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:95088): Gtk-WARNING **: 19:49:08.854: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+
+(/usr/lib/firefox/firefox:95115): Gtk-WARNING **: 19:49:09.092: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621442949683	Marionette	INFO	Listening on port 37731
+1621442949782	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:95197): Gtk-WARNING **: 19:49:09.787: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1621265141, line 6203: unreachable code after return statement
+1621442954524	Marionette	INFO	Stopped listening on port 37731
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621442954915	geckodriver	INFO	Listening on 127.0.0.1:51849
+1621442955925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenCm6eu"
+
+(firefox:95304): Gtk-WARNING **: 19:49:15.982: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+1621442956290	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:95383): Gtk-WARNING **: 19:49:16.629: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+
+(/usr/lib/firefox/firefox:95410): Gtk-WARNING **: 19:49:16.870: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621442957501	Marionette	INFO	Listening on port 35063
+1621442957542	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:95492): Gtk-WARNING **: 19:49:17.598: Theme parsing error: gtk.css:2:102: Failed to import: Error opening file /usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-left/maximized.css: No such file or directory
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1621265141, line 6203: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

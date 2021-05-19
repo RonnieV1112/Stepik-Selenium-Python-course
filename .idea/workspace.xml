@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6bd2834-3541-43f2-8583-9569ecae45b0" name="Default Changelist" comment="" />
+    <list default="true" id="b6bd2834-3541-43f2-8583-9569ecae45b0" name="Default Changelist" comment="homework from module 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rlGDDD8MXaCVZmepRlT2YyiA1B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -206,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620482660682</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework from module 3">
+      <created>1621435313242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621435313242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +235,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework from module 1" />
     <MESSAGE value="homework from module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework from module 2" />
+    <MESSAGE value="homework from module 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework from module 3" />
   </component>
 </project>

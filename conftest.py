@@ -11,14 +11,14 @@ def pytest_addoption(parser):
     parser.addoption('--language',
                      action='store',
                      default=None,
-                     help='Choose locale: ru or en')
+                     help='Choose language: ru, en, etc..')
 
 
 @pytest.fixture(scope="function")
 def browser(request):
     browser_name = request.config.getoption('browser_name')
     browser = None
-    user_language = request.config.getoption('locale')
+    user_language = request.config.getoption('language')
     if browser_name == "chrome":
         options = Options()
         options.add_experimental_option('prefs',
